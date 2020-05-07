@@ -1,2 +1,2 @@
 # PyScraper
-Simple Google search links scraper
+Simple Google search links scraper.
